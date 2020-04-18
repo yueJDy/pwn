@@ -112,4 +112,3 @@ r.sendafter("> ", payload)
 
 r.interactive()
 r.close()
-# FLAG{I_th1nk_th4t_you_c4n_jB_1n_1ph0n3_8}

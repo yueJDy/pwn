@@ -50,4 +50,3 @@ r.sendline(payload)
 
 r.interactive()
 r.close()
-# FLAG{uS1ng_S1lv3r_bu1l3t_7o_Pwn_th3_w0rld}

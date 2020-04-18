@@ -86,4 +86,3 @@ survey(name, age, reason, comment, 'n')
 
 r.interactive()
 r.close()
-# FLAG{Wh4t_1s_y0ur_sp1r1t_1n_pWn}
